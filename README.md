@@ -1,4 +1,4 @@
-style
+immutables-style
 ===
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.io7m.immutables.style/com.io7m.immutables.style.svg?style=flat-square)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.io7m.immutables.style%22)
