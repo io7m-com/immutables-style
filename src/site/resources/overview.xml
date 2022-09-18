@@ -1,11 +1,11 @@
 <div xmlns="http://www.w3.org/1999/xhtml">
   <p class="shields">
       <a href="https://travis-ci.org/io7m/immutables-style">
-         <img src="https://img.shields.io/travis/io7m/immutables-style.png?style=flat-square"
+         <img src="https://img.shields.io/travis/io7m/immutables-style.svg?style=flat-square"
               alt="Build status"/>
       </a>
       <a href="http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.io7m.immutables.style%22">
-         <img src="https://img.shields.io/maven-central/v/com.io7m.immutables.style/com.io7m.immutables.style.png?style=flat-square"
+         <img src="https://img.shields.io/maven-central/v/com.io7m.immutables.style/com.io7m.immutables.style.svg?style=flat-square"
               alt="Maven Central"/>
       </a>
   </p>
