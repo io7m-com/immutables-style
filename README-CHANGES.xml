@@ -6,8 +6,10 @@
         <c:change date="2018-05-22T00:00:00+00:00" summary="Initial version"/>
       </c:changes>
     </c:release>
-    <c:release date="2024-05-05T15:26:05+00:00" is-open="true" ticket-system="com.github.io7m.immutables.style" version="1.0.0">
-      <c:changes/>
+    <c:release date="2024-05-05T15:27:04+00:00" is-open="true" ticket-system="com.github.io7m.immutables.style" version="1.0.0">
+      <c:changes>
+        <c:change date="2024-05-05T15:27:04+00:00" summary="Initial public release."/>
+      </c:changes>
     </c:release>
   </c:releases>
   <c:ticket-systems>
