@@ -1,17 +1,21 @@
 <div xmlns="http://www.w3.org/1999/xhtml">
   <p class="shields">
-      <a href="https://travis-ci.org/io7m/immutables-style">
-         <img src="https://img.shields.io/travis/io7m/immutables-style.svg?style=flat-square"
-              alt="Build status"/>
-      </a>
-      <a href="http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.io7m.immutables.style%22">
-         <img src="https://img.shields.io/maven-central/v/com.io7m.immutables.style/com.io7m.immutables.style.svg?style=flat-square"
-              alt="Maven Central"/>
-      </a>
+    <a href="https://www.github.com/io7m-com/immutables-style/actions?query=workflow%3Amain.linux.temurin.lts">
+      <img src="https://img.shields.io/github/actions/workflow/status/io7m-com/immutables-style/main.linux.temurin.lts.yml"
+           alt="Build status"/>
+    </a>
+    <a href="http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.io7m.immutables-style%22">
+      <img src="https://img.shields.io/maven-central/v/com.io7m.immutables-style/com.io7m.immutables-style.svg?style=flat-square"
+           alt="Maven Central"/>
+    </a>
+    <a href="https://codecov.io/gh/io7m-com/immutables-style">
+      <img src="https://img.shields.io/codecov/c/github/io7m-com/immutables-style.svg?style=flat-square"
+           alt="Codecov"/>
+    </a>
   </p>
 
   <p>
-    The <tt>immutables.style</tt> package defines a set of <a href="http://immutables.github.io">Immutables</a>
+    The <tt>immutables-style</tt> package defines a set of <a href="http://immutables.github.io">Immutables</a>
     style annotations for <tt>io7m</tt> projects.
   </p>
 

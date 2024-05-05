@@ -12,18 +12,20 @@
     <version>8.2.0</version>
   </parent>
 
-  <groupId>com.io7m.immutables.style</groupId>
-  <artifactId>com.io7m.immutables.style</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <groupId>com.io7m.immutables-style</groupId>
+  <artifactId>com.io7m.immutables-style</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>com.io7m.immutables.style</name>
+  <name>com.io7m.immutables-style</name>
   <description>Immutables.org style annotations for io7m projects</description>
-  <url>http://github.com/io7m/immutables-style</url>
+  <url>http://www.io7m.com/software/immutables-style</url>
 
   <properties>
+    <!-- Configuration. -->
     <io7m.api.previousVersion>0.0.1</io7m.api.previousVersion>
-    <io7m.java.targetJavaVersion>21</io7m.java.targetJavaVersion>
+    <io7m.java.targetJavaVersion>17</io7m.java.targetJavaVersion>
+
     <io7m.org.immutables.version>2.10.1</io7m.org.immutables.version>
   </properties>
 
@@ -55,16 +57,6 @@
     </pluginManagement>
 
     <plugins>
-
-      <!-- Spot bugs -->
-      <plugin>
-        <groupId>com.github.spotbugs</groupId>
-        <artifactId>spotbugs-maven-plugin</artifactId>
-        <configuration>
-          <excludeFilterFile>spotbugs-filter.xml</excludeFilterFile>
-        </configuration>
-      </plugin>
-
       <!-- Generate a site -->
       <plugin>
         <groupId>com.io7m.minisite</groupId>

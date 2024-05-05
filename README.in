@@ -1,0 +1,13 @@
+
+## immutables-style
+
+[Immutables.org](https://www.immutables.org) annotations for io7m projects.
+
+## Features
+
+* [JPMS-ready](https://en.wikipedia.org/wiki/Java_Platform_Module_System)
+* ISC license.
+
+## Usage
+
+Annotate interfaces with `@ImmutablesStyleType`.
