@@ -29,6 +29,17 @@
     <io7m.org.immutables.version>2.10.1</io7m.org.immutables.version>
   </properties>
 
+  <scm>
+    <url>https://www.github.com/io7m-com/immutables-style</url>
+    <connection>scm:git:https://www.github.com/io7m-com/immutables-style</connection>
+    <developerConnection>scm:git:https://www.github.com/io7m-com/immutables-style</developerConnection>
+  </scm>
+
+  <issueManagement>
+    <url>https://www.github.com/io7m-com/immutables-style/issues</url>
+    <system>GitHub Issues</system>
+  </issueManagement>
+
   <dependencies>
     <dependency>
       <groupId>org.immutables</groupId>
