@@ -2,7 +2,7 @@ immutables-style
 ===
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.io7m.immutables-style/com.io7m.immutables-style.svg?style=flat-square)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.io7m.immutables-style%22)
-[![Maven Central (snapshot)](https://img.shields.io/nexus/s/com.io7m.immutables-style/com.io7m.immutables-style?server=https%3A%2F%2Fs01.oss.sonatype.org&style=flat-square)](https://s01.oss.sonatype.org/content/repositories/snapshots/com/io7m/immutables-style/)
+[![Maven Central (snapshot)](https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Fcentral.sonatype.com%2Frepository%2Fmaven-snapshots%2Fcom%2Fio7m%2Fimmutables-style%2Fcom.io7m.immutables-style%2Fmaven-metadata.xml&style=flat-square)](https://central.sonatype.com/repository/maven-snapshots/com/io7m/immutables-style/)
 [![Codecov](https://img.shields.io/codecov/c/github/io7m-com/immutables-style.svg?style=flat-square)](https://codecov.io/gh/io7m-com/immutables-style)
 ![Java Version](https://img.shields.io/badge/17-java?label=java&color=e65cc3)
 
